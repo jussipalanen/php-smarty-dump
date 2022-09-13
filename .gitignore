@@ -1,0 +1,6 @@
+templates_c/*
+config/*
+templates/*
+templates_c/*
+vendor
+node_modules

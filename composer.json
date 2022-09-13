@@ -1,0 +1,12 @@
+{
+    "name": "goljatti/smartytest",
+    "require": {
+        "smarty/smarty": "^4.2"
+    },
+    "authors": [
+        {
+            "name": "Jussi Alanen",
+            "email": "juzapala@gmail.com"
+        }
+    ]
+}
